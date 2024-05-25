@@ -35,3 +35,6 @@ htmlcov/
 # VS Code
 .vscode/
 .vs/
+
+# Ignore MLflow artifacts
+mlruns/
